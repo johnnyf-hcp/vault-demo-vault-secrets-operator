@@ -9,8 +9,8 @@ This is a demo of HashiCorp Vault's Vault Secrets Operator component which allow
 In this demo, we will cover:
 - Setup of Vault's Dynamic Secret
 - Configuration of VSO to utilize the dynamic secret
-- Configure the caching persistence in VSO (optional)
 - Testing of application pods restart when secrets are refreshed
+- Configure the caching persistence in VSO (optional)
 
 
 You can use Visual Studio Code to run the notebook by:
